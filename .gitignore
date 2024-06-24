@@ -1,0 +1,7 @@
+/baselines/session_*
+*.pyc
+/baselines/wandb
+/.ipynb_checkpoints
+*.mp4
+.python-version
+/.vscode
